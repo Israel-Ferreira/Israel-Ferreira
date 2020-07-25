@@ -12,7 +12,7 @@ Projetos em destaque:
 * [Clone Instagram](https://github.com/Israel-Ferreira/clone-instagram): Projeto feito durante uma semana de programação do Lucas Caton
 * [Dev Jobs](https://github.com/Israel-Ferreira/clone-instagram): Site de Vagas de emprego em TI  (Projeto em Andamento)
 * [Time To Answer](https://github.com/Israel-Ferreira/time_to_answer): Site que está sendo desenvolvido no curso de ruby on rails 5.x (Projeto em Andamento)
-* [Loja Snoopeh](Loja Snoopeh): Api baseada em um desafio de uma empresa no github
+* [Loja Snoopeh](https://github.com/Israel-Ferreira/loja_snoopeh_desafio): Api baseada em um desafio de uma empresa no github
 * [Api de Restaurantes](https://github.com/Israel-Ferreira/api-restaurants): CRUD Api de Restaurantes feito em node.js
 
 
