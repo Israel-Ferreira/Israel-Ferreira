@@ -9,11 +9,11 @@ Desenvolvedor backend, autista, fã de café e de Led Zeppelin
 
 Projetos em destaque: 
 
-* [https://github.com/Israel-Ferreira/clone-instagram] (Clone do Instagram): Projeto feito durante uma semana de programação do Lucas Caton
-* [https://github.com/Israel-Ferreira/dev-jobs] (Dev Jobs): Site de Vagas de emprego em TI  (Projeto em Andamento)
-* [https://github.com/Israel-Ferreira/time_to_answer] (Time To Answer): Site que está sendo desenvolvido no curso de ruby on rails 5.x (Projeto em Andamento)
-* [https://github.com/Israel-Ferreira/loja_snoopeh_desafio] (Loja Snoopeh): Api baseada em um desafio de uma empresa no github
-* [https://github.com/Israel-Ferreira/api-restaurants] (Api de Restaurantes): CRUD Api de Restaurantes feito em node.js
+* [https://github.com/Israel-Ferreira/clone-instagram](Clone do Instagram): Projeto feito durante uma semana de programação do Lucas Caton
+* [https://github.com/Israel-Ferreira/dev-jobs](Dev Jobs): Site de Vagas de emprego em TI  (Projeto em Andamento)
+* [https://github.com/Israel-Ferreira/time_to_answer](Time To Answer): Site que está sendo desenvolvido no curso de ruby on rails 5.x (Projeto em Andamento)
+* [https://github.com/Israel-Ferreira/loja_snoopeh_desafio](Loja Snoopeh): Api baseada em um desafio de uma empresa no github
+* [https://github.com/Israel-Ferreira/api-restaurants](Api de Restaurantes): CRUD Api de Restaurantes feito em node.js
 
 
 ### Contato: 
