@@ -14,6 +14,8 @@ Projetos em destaque:
 * [Time To Answer](https://github.com/Israel-Ferreira/time_to_answer): Site que está sendo desenvolvido no curso de ruby on rails 5.x (Projeto em Andamento)
 * [Loja Snoopeh](https://github.com/Israel-Ferreira/loja_snoopeh_desafio): Api baseada em um desafio de uma empresa no github
 * [Api de Restaurantes](https://github.com/Israel-Ferreira/api-restaurants): CRUD Api de Restaurantes feito em node.js
+* [Api Happy](https://github.com/Israel-Ferreira/nlw3-backend): Api de Orfanatos da Next Level Week da Rocketseat feita com Node.js + Typescript + TypeORM
+* [App Happy](https://github.com/Israel-Ferreira/nlw-mobile): Aplicativo feito com React Native + Typescript feito durante a Next Level Week da Rocketseat
 
 
 ### Contato: 
