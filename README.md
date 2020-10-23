@@ -10,12 +10,12 @@ Desenvolvedor backend, autista, fã de café e de Led Zeppelin
 Projetos em destaque: 
 
 * [Clone Instagram](https://github.com/Israel-Ferreira/clone-instagram): Projeto feito durante uma semana de programação do Lucas Caton
-* [Dev Jobs](https://github.com/Israel-Ferreira/clone-instagram): Site de Vagas de emprego em TI  (Projeto em Andamento)
 * [Time To Answer](https://github.com/Israel-Ferreira/time_to_answer): Site que está sendo desenvolvido no curso de ruby on rails 5.x (Projeto em Andamento)
 * [Loja Snoopeh](https://github.com/Israel-Ferreira/loja_snoopeh_desafio): Api baseada em um desafio de uma empresa no github
 * [Api de Restaurantes](https://github.com/Israel-Ferreira/api-restaurants): CRUD Api de Restaurantes feito em node.js
 * [Api Happy](https://github.com/Israel-Ferreira/nlw3-backend): Api de Orfanatos da Next Level Week da Rocketseat feita com Node.js + Typescript + TypeORM
-* [App Happy](https://github.com/Israel-Ferreira/nlw-mobile): Aplicativo feito com React Native + Typescript feito durante a Next Level Week da Rocketseat
+* [Api Ciclo de Pagamentos](https://github.com/Israel-Ferreira/mymoney-backend) Api feita durante o curso de React da COD3R Cursos na Udemy (Projeto em Andamento)
+* [App React MyMoney](https://github.com/Israel-Ferreira/mymoney-frontend) App React feita durante o curso de React da COD3R (Projeto em Andamento)
 
 
 ### Contato: 
