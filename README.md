@@ -16,6 +16,7 @@ Projetos em destaque:
 * [Api Happy](https://github.com/Israel-Ferreira/nlw3-backend): Api de Orfanatos da Next Level Week da Rocketseat feita com Node.js + Typescript + TypeORM
 * [Api Ciclo de Pagamentos](https://github.com/Israel-Ferreira/mymoney-backend) Api feita durante o curso de React da COD3R Cursos na Udemy (Projeto em Andamento)
 * [App React MyMoney](https://github.com/Israel-Ferreira/mymoney-frontend) App React feita durante o curso de React da COD3R (Projeto em Andamento)
+* [Api Curso de Spring](https://github.com/Israel-Ferreira/curso-de-spring) Api feita durante o curso de Spring Boot, Hibernate, MySQL e Ionic (Projeto em Andamento)
 
 
 ### Contato: 
