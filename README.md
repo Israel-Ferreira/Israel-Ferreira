@@ -3,7 +3,7 @@
 
 ### Quem sou eu
 
-Desenvolvedor backend, autista, fã de café e de Led Zeppelin 
+Arquiteto de Soluções e desenvolvedor nas horas vagas
 
 ### Portifólio 
 
