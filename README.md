@@ -23,7 +23,7 @@ Projetos em destaque:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Israel-Ferreira)](https://github.com/Israel-Ferreira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-de-souza-601a9a16a/)](https://www.linkedin.com/in/israel-de-souza-601a9a16a/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+11+999073020&text=Hello!)](https://api.whatsapp.com/send?phone=55+11+999073020&text=Hello!)
+
 
 
 
